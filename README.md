@@ -1,7 +1,6 @@
 ![Header image](https://github.com/matjazbravc/matjazbravc/blob/main/profile_background.jpg?raw=true)
 
 #### Development Lead / Solution Architect / Microservices/ C#
-<br />
 Hi there,
 <br />
 I'm Matjaž, a Developer/Team Lead/Architect, an expert .NET developer with strong  backend C# development experience. Expertise in mission critical distributed systems with a strong focus on object oriented programming, microservice architecture, data warehouse design and test driven development.

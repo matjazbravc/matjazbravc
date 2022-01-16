@@ -6,6 +6,8 @@ I'm Matjaž, a Developer/Team Lead/Architect, an expert .NET developer with stro
 <br />
 
 My primary focus areas are backend, cloud, optimizing dev process, business innovation and time-to-market by driving automation, reuse and quality in an agile development process.
+<br />
+It's a fun! :)
 <br /> <br />
 [<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png">](https://www.linkedin.com/in/matjazbravc/)
 [Contact me on LinkedIn](https://www.linkedin.com/in/matjazbravc/)

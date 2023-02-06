@@ -9,3 +9,5 @@ My primary focus areas are backend, cloud, optimizing dev process, business inno
 <br />
 [<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png">](https://www.linkedin.com/in/matjazbravc/)
 [Contact me on LinkedIn](https://www.linkedin.com/in/matjazbravc/)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matjazbravc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
